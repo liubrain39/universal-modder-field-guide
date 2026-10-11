@@ -17,6 +17,8 @@ The tutorials are written to be useful when read directly on GitHub. The website
 
 ## Minecraft reference guides
 
+- [Minecraft Java problem-report worksheet](docs/minecraft-problem-report.md): a copy-and-fill environment, reproduction and log template, with build and installed-JAR checks.
+
 - [Fabric, Forge, and NeoForge compatibility](https://universalmodder.dev/guides/minecraft-mod-loaders/): editions, game versions, loader versions, and Java requirements.
 - [A mod that will not load](https://universalmodder.dev/guides/minecraft-mod-not-loading/): follow build and game logs to identify version mismatches, missing dependencies, and resource errors.
 - [Copper Token practice walkthrough](https://universalmodder.dev/guides/minecraft-first-mod/): a source exercise targeting Minecraft Java 1.21.1, NeoForge 21.1.252, and JDK 21.
